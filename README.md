@@ -75,14 +75,5 @@ Open http://localhost:5173 and you'll be able to see the page appear.
 - **Chat Group Search Feature**: The system includes a chat group search feature with a stunning UI, making it easy for users to find and join groups that align with their interests
 
 
-## Feedback
-
-If you have any feedback, please reach out to me at phyohan1234@gmail.com
-
-
-## Authors
-
-- [@phyohan18](https://www.github.com/phyohan18)
-
 
 
