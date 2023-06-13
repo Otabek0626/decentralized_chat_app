@@ -18,6 +18,8 @@ interface for users.
 
 
 URL - https://decentralized-chat-app-phi.vercel.app
+
+https://www.youtube.com/watch?v=stzCZMmIJ5k
 ## Tech Stack
 
 React.JS, Gun.JS, Tailwind CSS, Framer Motion, Google
@@ -44,7 +46,7 @@ Vercel Deployment, Sanity.io , Express.JS
 Clone the project
 
 ```bash
-  git clone https://github.com/phyohan18/Decentralized-Chat-App.git
+  git clone
 ```
 
 Run npm install to install everything from package.json
